@@ -147,7 +147,7 @@ var __makeRelativeRequire = function(require, mappings, pref) {
     return require(name);
   }
 };
-require.register("initialize.js", function(exports, require, module) {
+require.register("initialize.jsx", function(exports, require, module) {
 'use strict';
 
 var _reactDom = require('react-dom');
@@ -436,7 +436,7 @@ exports.default = System;
 
 });
 
-require.register("systems/InputSystem.jsx", function(exports, require, module) {
+require.register("systems/InputSystem.js", function(exports, require, module) {
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -480,7 +480,7 @@ exports.default = InputSystem;
 
 });
 
-require.register("systems/PhysicsSystem.jsx", function(exports, require, module) {
+require.register("systems/PhysicsSystem.js", function(exports, require, module) {
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -529,7 +529,7 @@ exports.default = PhysicsSystem;
 
 });
 
-require.register("systems/RenderSystem.jsx", function(exports, require, module) {
+require.register("systems/RenderSystem.js", function(exports, require, module) {
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
