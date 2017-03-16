@@ -591,5 +591,3 @@ require.alias("C:\Projects\github\scent\scent-react-brunch/app/scent-react", "sc
   
 });})();require('___globals___');
 
-
-//# sourceMappingURL=app.js.map
