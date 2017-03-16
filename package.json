@@ -24,7 +24,6 @@
     "babel-preset-react": "~6.23",
     "brunch": "^2",
     "clean-css-brunch": "^2",
-    "gh-pages": "^0.12.0",
-    "uglify-js-brunch": "^2"
+    "gh-pages": "^0.12.0"
   }
 }
