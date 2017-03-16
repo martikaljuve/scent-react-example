@@ -7,7 +7,7 @@
   "scripts": {
     "start": "brunch watch --server",
     "build": "brunch build --production",
-    "deploy": "gh-pages --no-push --dist public"
+    "deploy": "brunch build --production && gh-pages --dist public"
   },
   "dependencies": {
     "lodash": "^4.17.4",
